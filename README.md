@@ -24,6 +24,7 @@ Esse microsserviço realiza uma chamada a api do chat-GPT3 enviando o prompt inf
 
  - [busca os certificados na plataforma da DIO](https://github.com/P3d50/certificates)
  - [envia as informações para o chat-GPT3 via api](https://github.com/P3d50/chatgtp)
+ - [API que consome as duas aplicações acima](https://github.com/P3d50/dio-bio)
  
  - considerar que esses projetos estão em fase inicial e não foram pensadas questões como privacidade e segurança, existem algumas coisas hardcoded que serão melhoradas posteriormente, utilize com cautela.
  - as urls dos serviços estão em hardcoded, chaves de api, etc.. considere isso antes de subir esses projetos para alguma núvem pública.
