@@ -17,7 +17,7 @@ Esse microsserviço realiza uma chamada a api do chat-GPT3 enviando o prompt inf
       $ ./start.sh
     ```
     
-  - acessar a url do local onde o container está rodando com a porta "8081" e a uri "/home", ex: http://localhost:8081/home
+  - acessar a url do local onde o container está rodando com a porta "8082" e a uri "/home", ex: http://localhost:8082/home
  
 
 # Sobre a integração com outros microsserviços
